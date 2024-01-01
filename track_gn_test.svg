@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="300mm"
+   viewBox="0 0 1000 300"
+   version="1.1"
+   id="svg135"
+   sodipodi:docname="track_gn_test.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.8756036"
+     inkscape:cx="-2352.576"
+     inkscape:cy="594.20873"
+     inkscape:window-width="1670"
+     inkscape:window-height="951"
+     inkscape:window-x="58"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid371"
+       originx="0"
+       originy="0"
+       dotted="false"
+       spacingx="2.6458333"
+       spacingy="2.6458333"
+       empcolor="#00e5a2"
+       empopacity="0.30196078"
+       empspacing="5"
+       color="#0099e5"
+       opacity="0.69411765" />
+  </sodipodi:namedview>
+  <defs
+     id="defs132" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3548-7-7"
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#3ea647;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 92.604166,-13.229167 -39.687509,1e-6 c -43.5121605,2e-6 -66.145823,-13.229167 -79.37499,-26.458335 M 1018.6458,13.229167 H 886.35416 c -39.6875,-1e-6 -79.375,-26.458334 -119.0625,-26.458334 -39.6875,0 -79.375,26.458333 -119.0625,26.458334 -39.6875,0 -79.37501,-26.458332 -119.0625,-26.458334 -39.68751,1e-6 -79.375,26.458332 -119.0625,26.458334 -39.6875,0 -185.20833,-26.458334 -224.89583,-26.458334 h -52.91666"
+       sodipodi:nodetypes="csccccccccc" />
+    <path
+       style="fill:none;stroke:#3ea647;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 26.458333,105.83333 H 264.58333 c 13.22917,1e-5 52.91667,1e-5 79.375,-13.229158"
+       id="path1194"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#3ea647;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 396.875,105.83333 224.89583,0 c 13.22917,1e-5 52.91667,1e-5 79.375,-13.229158"
+       id="path1194-1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#3ea647;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 754.06249,105.83333 224.89583,0 c 79.37498,0 92.60418,-39.687498 92.60418,-66.14583 0,-26.458333 -13.2292,-66.145833 -39.6875,-66.145833"
+       id="path1194-1-5"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#3ea647;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m -674.68748,119.0625 c 0,0 13.22917,13.22916 39.68749,13.22916 h 291.04166 c 66.14583,0 198.4375,-79.374994 224.89583,-105.833327"
+       id="path3548-7"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:none;stroke:#00eb22;stroke-width:2;stop-color:#000000"
+       id="rect334"
+       width="18.520821"
+       height="5.2916594"
+       x="-677.33331"
+       y="156.10417"
+       rx="2.6458249"
+       ry="2.6458263" />
+  </g>
+</svg>
